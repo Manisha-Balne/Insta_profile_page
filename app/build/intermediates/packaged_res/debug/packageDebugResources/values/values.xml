@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Bio">Android Developer | Photography </string>
+    <string name="Close">Close</string>
+    <string name="Menu">MenuImg</string>
+    <string name="Nopostsavailable">No posts available</string>
+    <string name="Post">Post</string>
+    <string name="Post_count">0</string>
+    <string name="Posts">Posts</string>
+    <string name="Profileimg">Dp</string>
+    <string name="Reels">Reels</string>
+    <string name="Tagged">Tagged</string>
+    <string name="Username">Manisha</string>
+    <string name="app_name">Insta_profile_page</string>
+    <string name="backButton">Back Button</string>
+    <string name="edit">Edit</string>
+    <string name="followers">followers</string>
+    <string name="followers_count">0</string>
+    <string name="following">following</string>
+    <string name="following_count">0</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu">menu</string>
+    <string name="share">Share</string>
+    <style name="BackButton">
+        <item name="android:layout_width">45dp</item>
+        <item name="android:layout_height">45dp</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+    <style name="Base.Theme.Insta_profile_page" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="CircleImageStyle">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="HeaderLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+    <style name="MenuButton">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">2dp</item>
+    </style>
+    <style name="ShapeableImageview">
+        <item name="android:layout_width">70dp</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="strokeColor">@color/white</item>
+    </style>
+    <style name="Theme.Insta_profile_page" parent="Base.Theme.Insta_profile_page"/>
+    <style name="Username">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

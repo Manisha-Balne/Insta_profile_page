@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\layout_activity_post_details.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\layout\\activity_post_details.xml"
+    },
+    {
+        "merged": "com.example.insta_profile_page.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.example.insta_profile_page.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_tag.png.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\tag.png"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\layout_post_item.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\layout\\post_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_back.png.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_backgroundbtn.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\backgroundbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_nature1.jpg.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\nature1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_circlebackground.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\circlebackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_invitefriends.png.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\invitefriends.png"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_lotusimg.jpg.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\lotusimg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_nature4.jpg.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\nature4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\layout_dialog_post.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\layout\\dialog_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_nature2.jpg.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\nature2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_likes.png.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\likes.png"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_post.png.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\post.png"
+    },
+    {
+        "merged": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-debug-40:\\drawable_reel.png.flat",
+        "source": "C:\\Users\\BalneManisha\\.gradle\\daemon\\9.5.0\\com.example.insta_profile_page.app-main-42:\\drawable\\reel.png"
+    }
+]
